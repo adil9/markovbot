@@ -7,7 +7,7 @@ This library allows you to generate random text using a Markov chain. It has a
 single class, MarkovBot, which can read text files of your choice. You can then
 make it generate random text. If you have a Twitter account, you can also make
 the bot automatically reply to tweets of your choice, and you can make it
-periocially tweet something.
+periodically tweet something.
 
 
 INSTALLATION
